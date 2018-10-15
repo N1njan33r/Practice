@@ -1,0 +1,7 @@
+c:\users\ezm\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+c:\users\ezm\source\repos\Practice\Practice\bin\Debug\Practice.exe
+c:\users\ezm\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+c:\users\ezm\source\repos\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+c:\users\ezm\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+c:\users\ezm\source\repos\Practice\Practice\obj\Debug\Practice.exe
+c:\users\ezm\source\repos\Practice\Practice\obj\Debug\Practice.pdb
